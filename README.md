@@ -6,7 +6,7 @@
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://twitter.com/_gfbaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gfbaris" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/barış saylık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış saylık" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-sayl%C4%B1k-85427b293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış saylık" height="30" width="40" /></a>
 <a href="https://instagram.com/gfbaris_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gfbaris_" height="30" width="40" /></a>
 </p>
 
