@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQExzol9AId5Nw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1723466770027?e=1729123200&v=beta&t=-xHhyLgD3JvVdLUFnL6VXCZY7yxdg-BsJB0n4PW6j2c)
 <h1 align="center">Merhaba 👋, ben Barış</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfbaris&label=Profile%20views&color=0e75b6&style=flat" alt="gfbaris" /> </p>
