@@ -24,9 +24,9 @@
 ---
 
 ## 📌 Öne Çıkan Projeler  
-🔹 **[Kütüphane Otomasyonu](https://github.com/gfbaris/kutuphane-otomasyon)** - C# ile geliştirilmiş basit bir kütüphane yönetim sistemi.  
-🔹 **[Market Otomasyonu](https://github.com/gfbaris/market-otomasyon)** - C# Windows Forms kullanarak geliştirdiğim market yönetim uygulaması.  
-🔹 **[Oyun Projem](https://github.com/gfbaris/oyun-projesi)** - Unity ile geliştirdiğim basit bir 2D platform oyunu.  
+🔹 **[CoffyDesktopApp](https://github.com/gfbaris/CoffyDestkopApp)** - C# ve Windows Forms kullanılarak geliştirilmiş olan bu uygulama, kahve dükkanları için temel bir kullanıcı arayüzü sunar.  
+🔹 **[Çiftlik Otomasyonu](https://github.com/gfbaris/Ciftlik-Otomasyonu)** - Java ile geliştirilmiş, hayvan yönetimi, yem stok takibi ve sağlık kayıtlarını içeren kapsamı bir çiftlik otomasyon sistemi.  
+🔹 **[Eczane Otomasyonu](https://github.com/gfbaris/Eczane-Otomasyonu)** - Bu proje, eczanelerin stok, müşteri ve satış işlemlerini yönetmelerine yardımcı olmak amacıyla geliştirilmiş bir otomasyon sistemidir. 
 
 ---
 
