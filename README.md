@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Barış</h1>
-<h3 align="center">Bilgisayar Mühendisliği öğrencisi | C#, Java, Oyun ve Yazılım Geliştirme</h3>
+<h3 align="center">Bilgisayar Mühendisliği öğrencisi | C#, Java ve Yazılım Geliştirme</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gfbaris&label=Profile%20views&color=0e75b6&style=flat" alt="gfbaris" />
