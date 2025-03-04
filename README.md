@@ -7,8 +7,7 @@
 
 ## 🚀 Hakkımda  
 - 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
-- 💻 C# ve Java dillerinde yazılım projeleri geliştiriyorum.  
-- 🎮 Oyun geliştirme ve **Unity** ile projeler oluşturuyorum.  
+- 💻 C# ve Java dillerinde yazılım projeleri geliştiriyorum.    
 - 🔍 **C# Windows Forms, Veritabanı Yönetimi ve Web Geliştirme** üzerine kendimi geliştiriyorum.  
 
 ---
@@ -18,7 +17,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a> 
 </p>
 
 ---
